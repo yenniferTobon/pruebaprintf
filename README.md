@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Prueba Printf
-## Authors
-
-* **Yennifer Tobon** - * 
+## YENNIFER TOBON
+## BARBARA CALLE
+ 
 =======
 Holberton School , 
 
