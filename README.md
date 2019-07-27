@@ -4,7 +4,6 @@ Prueba Printf
 
 * **Yennifer Tobon** - * 
 =======
-Holberton School , 
 
 ## Authors
 
